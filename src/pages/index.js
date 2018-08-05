@@ -49,8 +49,7 @@ const IndexPage = props => {
         <Hero>
           <h1>Hi.</h1>
           <p>
-            I&apos;m John Doe, a Senior UX Developer with five years of industry experience, specializing in developing
-            React apps with the best UX users can get.
+            I&apos;m Awdesh Sharma, I write about algorithms in computer science and other technical stuff.
           </p>
           <Link to="/contact">
             <Button big>
