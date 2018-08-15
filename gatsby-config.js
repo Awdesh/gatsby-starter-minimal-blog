@@ -51,8 +51,8 @@ module.exports = {
         start_url: config.pathPrefix,
         background_color: config.backgroundColor,
         theme_color: config.themeColor,
-        display: 'standalone',
-        icon: 'src/favicon.png',
+        display: 'standalone'
+        // icon: 'src/favicon.png',
       },
     },
     'gatsby-plugin-offline',

@@ -3,7 +3,7 @@ module.exports = {
 
   siteTitle: 'Blog by Awdesh Sharma', // Navigation and Site Title
   siteTitleAlt: 'Blog - Awdesh Sharma', // Alternative Site title for SEO
-  siteUrl: 'https://minimal-blog.netlify.com', // Domain of your site. No trailing slash!
+  siteUrl: 'https://www.awdesh.xyz', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteBanner: '/social/banner.jpg',
   siteDescription: 'Blog with big typography',
