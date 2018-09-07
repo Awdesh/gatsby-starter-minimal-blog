@@ -9,7 +9,7 @@ module.exports = {
   siteDescription: 'Blog with big typography',
 
   siteFBAppID: '123456789', // Facebook App ID
-  userTwitter: '@minimal', // Twitter Username
+  userTwitter: '@s_awdesh', // Twitter Username
   ogSiteName: 'minimal', // Facebook Site Name
 
   // Manifest and Progress color
