@@ -83,9 +83,8 @@ const Layout = props => {
             <SEO />
             {children}
             <Footer>
-              &copy; 2018 by Awdesh Sharma. All rights reserved. <br />
-              <a href="https://github.com/LeKoArts/gatsby-starter-minimal-blog">GitHub Repository</a> <br />
-              <span>Last build: {data.site.buildTime}</span>
+              awdesh@outlook.com <br />
+              <a href="https://www.linkedin.com/in/awdesh-sharma-a0570a20">Linkedin</a> <br />
             </Footer>;
           </React.Fragment>
         </ThemeProvider>
